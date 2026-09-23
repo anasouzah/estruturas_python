@@ -1,4 +1,4 @@
-name = inuput("Qaul seu nome?")
+name = input("Qaul seu nome?")
 age = input ("Qual sua idade?")
 
 print (type (name))
@@ -8,4 +8,4 @@ age = int (age)
 
 older = age + 10
 
-print (f "{name} terá {older} daqui a 10 anos.")
+print (f"{name} terá {older} daqui a 10 anos.")
